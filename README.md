@@ -1,6 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 30 August 2025 - To: 06 September 2025
+
+Total Time: 4 hrs 22 mins
+
 Astro        4 hrs 21 mins   █████████████████████░░░░   84.50 %
 Other        47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
