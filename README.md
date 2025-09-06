@@ -3,4 +3,4 @@
 ---
 
 ### 🔗 My Spotify Profile
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iadb62ajtu2zdl2ojyme46ncu)
