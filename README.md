@@ -1,15 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2025 - To: 06 September 2025
+From: 24 February 2025 - To: 06 September 2025
 
-Total Time: 4 hrs 22 mins
+Total Time: 48 hrs 37 mins
 
-Astro        4 hrs 21 mins   █████████████████████░░░░   84.50 %
-Other        47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP          16 hrs 43 mins  ████████▒░░░░░░░░░░░░░░░░   33.61 %
+Astro        10 hrs 22 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
+CSS          9 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
+Python       6 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+HTML         4 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Other        1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
