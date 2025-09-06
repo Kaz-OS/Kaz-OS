@@ -1,19 +1,4 @@
-## Hi there 👋
-
-# 🎵 My Spotify Top Tracks
-
-Here are some of my favorite tracks on Spotify, updated regularly!
-
-## Top Tracks
-
-| # | Track | Artist | Album | Listen |
-|---|-------|--------|-------|--------|
-| 1 | *Track Name 1* | Artist 1 | Album 1 | [Spotify](https://open.spotify.com/track/...) |
-| 2 | *Track Name 2* | Artist 2 | Album 2 | [Spotify](https://open.spotify.com/track/...) |
-| 3 | *Track Name 3* | Artist 3 | Album 3 | [Spotify](https://open.spotify.com/track/...) |
-| 4 | *Track Name 4* | Artist 4 | Album 4 | [Spotify](https://open.spotify.com/track/...) |
-| 5 | *Track Name 5* | Artist 5 | Album 5 | [Spotify](https://open.spotify.com/track/...) |
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🔗 My Spotify Profile
