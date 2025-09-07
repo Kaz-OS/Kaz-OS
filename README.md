@@ -17,7 +17,7 @@ Other        1 hr 9 mins     ▓░░░░░░░░░░░░░░░░
 ---
 ### Setup
 - OS: Fedora
-- WM/DE: Hyprland
+- DE: Hyprland
 - Terminal: Kitty
 - Editor: VSCode/Rider
 ---
