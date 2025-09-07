@@ -16,7 +16,8 @@ Other        1 hr 9 mins     ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 ### Setup
-- OS: Fedora
+- OS: Linux
+- Distro : Fedora
 - DE: Hyprland
 - Terminal: Kitty
 - Editor: VSCode/Rider
