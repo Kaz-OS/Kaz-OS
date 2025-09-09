@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Mise à jour tous les jours à 6h UTC
-    - cron: '0 6 * * *'
+    - cron: '0 * * * *'
+
   workflow_dispatch:
 
 jobs:
