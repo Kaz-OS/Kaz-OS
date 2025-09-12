@@ -17,7 +17,7 @@ HTML         4 hrs 34 mins   ██░░░░░░░░░░░░░░░
 ---
 ### Setup
 - OS: Linux
-- Distro : Fedora
+- Distro : EndeavourOS
 - DE: Hyprland
 - Terminal: Kitty
 - Editor: VSCode/Rider
