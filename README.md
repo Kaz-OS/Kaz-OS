@@ -5,12 +5,12 @@ From: 24 February 2025 - To: 13 September 2025
 
 Total Time: 61 hrs 40 mins
 
-PHP          18 hrs 21 mins  ███████▒░░░░░░░░░░░░░░░░░   29.20 %
-Astro        14 hrs 23 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
-CSS          9 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-TypeScript   6 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-Python       6 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-HTML         4 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+PHP          18 hrs 21 mins  sssssssnlllllllllllllllll   29.20 %
+Astro        14 hrs 23 mins  sssssglllllllllllllllllll   22.90 %
+CSS          9 hrs 10 mins   sssalllllllllllllllllllll   14.58 %
+TypeScript   6 hrs 33 mins   ssallllllllllllllllllllll   10.42 %
+Python       6 hrs           ssgllllllllllllllllllllll   09.56 %
+HTML         4 hrs 34 mins   selllllllllllllllllllllll   07.29 %
 ```
 
 <!--END_SECTION:waka-->
