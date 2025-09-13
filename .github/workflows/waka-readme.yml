@@ -22,4 +22,5 @@ jobs:
           SHOW_MASKED_TIME: false
           LANG_COUNT: 6
           GRAPH_CHAR: "#"        # caractère pour la barre
-          GRAPH_END_CHAR: ">"    # caractère pour la pointe
+
+          
