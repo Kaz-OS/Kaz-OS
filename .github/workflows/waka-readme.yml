@@ -1,26 +1,24 @@
-name: Waka Readme
+name: WakaTime Update
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # toutes les heures
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: Update README with WakaTime stats
+  wakatime-update:
+    name: Update README
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate WakaTime Stats
-        uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: "chore: updated WakaTime"
+          BLOCKS: -#
+          TIME_RANGE: last_30_days
+          AUTHOR_NAME: Mikkel ALMONTE--RINGAUD
+          AUTHOR_EMAIL: vexitofficial@gmail.com
           SHOW_TITLE: true
-          BLOCKS: languages
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
           LANG_COUNT: 6
-          GRAPH_CHAR: "#"        # caractère pour la barre
-
-          
+          CODE_LANG: plain
