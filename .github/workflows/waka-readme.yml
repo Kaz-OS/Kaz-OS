@@ -1,9 +1,10 @@
 name: Waka Readme
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # toutes les heures
-  workflow_dispatch:
+ workflow_dispatch:
+ schedule:
+  - cron: "0 0 * * *"
+ 
 
 jobs:
   update-readme:
@@ -15,10 +16,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: languages
+          BLOCKS: -#  
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           LANG_COUNT: 6
-          GRAPH_CHAR: -#       # caractère pour la barre
+          CODE_LANG: plain
