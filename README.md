@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```plain
-From: 24 February 2025 - To: 13 September 2025
+From: 24 February 2025 - To: 14 September 2025
 
-Total Time: 61 hrs 40 mins
+Total Time: 63 hrs 52 mins
 
-PHP          18 hrs 21 mins  #######------------------   29.20 %
-Astro        14 hrs 23 mins  ######-------------------   22.90 %
-CSS          9 hrs 10 mins   ####---------------------   14.58 %
-TypeScript   6 hrs 33 mins   ###----------------------   10.42 %
-Python       6 hrs           ##-----------------------   09.56 %
-HTML         4 hrs 34 mins   ##-----------------------   07.29 %
+PHP          18 hrs 21 mins  #######------------------   28.21 %
+Astro        14 hrs 23 mins  ######-------------------   22.13 %
+CSS          9 hrs 10 mins   ####---------------------   14.09 %
+TypeScript   8 hrs 23 mins   ###----------------------   12.90 %
+Python       6 hrs           ##-----------------------   09.24 %
+HTML         4 hrs 34 mins   ##-----------------------   07.04 %
 ```
 
 <!--END_SECTION:waka-->
