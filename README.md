@@ -17,9 +17,9 @@ HTML         4 hrs 34 mins   ##-----------------------   06.06 %
 ---
 ### Setup
 - OS: Linux
-- Distro : EndeavourOS
+- Distro : Arch
 - DE: Hyprland
-- Terminal: Kitty
+- Terminal: Foot
 - Editor: VSCode/Rider
 ---
 
